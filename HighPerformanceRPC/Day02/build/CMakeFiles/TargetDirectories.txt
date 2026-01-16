@@ -1,0 +1,3 @@
+/home/fddc007/Desktop/fddc007_Ubuntu_share/Gemini_Server/HighPerformanceRPC/Day02/build/CMakeFiles/rebuild_cache.dir
+/home/fddc007/Desktop/fddc007_Ubuntu_share/Gemini_Server/HighPerformanceRPC/Day02/build/CMakeFiles/edit_cache.dir
+/home/fddc007/Desktop/fddc007_Ubuntu_share/Gemini_Server/HighPerformanceRPC/Day02/build/CMakeFiles/server.dir
